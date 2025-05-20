@@ -1,2 +1,2 @@
-linha de código 1 "olá mundo tst"
-linha de código 2 nova função ()
+linha de código 1 Teste de merge
+linha de código 2 nova função(teste)
