@@ -1,2 +1,2 @@
-linha de código 1 "olá mundo teste"
-linha de código 2 nova função (tst)
+linha de código 1 "olá mundo tst"
+linha de código 2 nova função ()
